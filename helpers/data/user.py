@@ -1,3 +1,3 @@
-email = 'asdqwn58461@gmail.com'
-nick = 'asdqwn58461'
+email = 'faqsdqwn58461@gmail.com'
+nick = 'faqsdqwn58461'
 password = 'QWE1234as'
